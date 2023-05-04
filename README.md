@@ -1,2 +1,2 @@
-# Calculadora-python-customtkinter
-Calculadora simples com interface gráfica feita com biblioteca customtkinter.
+#Apps python
+Aplicações para estudo de python
